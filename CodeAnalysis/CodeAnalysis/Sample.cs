@@ -9,5 +9,6 @@ namespace CodeAnalysis
     class Sample
     {
         int id;
+        string name;
     }
 }
